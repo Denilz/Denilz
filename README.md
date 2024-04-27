@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @Denilz
-- 👀 I’m a curious Jr Full Stack Developer
-- 🌱 I’m currently focusing on React.js after studying few languages and frameworks/libraries.
-- 💞️ I’m looking to collaborate on interesting and challenging projects
-- 📫 You can reach via <a href = "mailto: ekvdnl@gmail.com">Email</a>
+Hi there I'm Daniel Tukav.
+i'm a full stack developer using mainly MERN stack.
+I hope you enjoy my GitHub.
